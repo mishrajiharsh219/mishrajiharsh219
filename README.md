@@ -15,7 +15,7 @@
 
 
 
-<img align="left" alt="https://www.linkedin.com/in/harsh-mishra-15ab1419b/" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />
+<a href="https://www.linkedin.com/in/harsh-mishra-15ab1419b/"><img align="left" alt="https://www.linkedin.com/in/harsh-mishra-15ab1419b/" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />
 
 
 <br />
