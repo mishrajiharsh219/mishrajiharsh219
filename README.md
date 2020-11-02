@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [newsify](https://github.com/mishrajiharsh219/newsify)
 - 🌱 I’m currently learning Data Structure and Algorithms
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on any interesting project
 - 🤔 I’m looking for help with competitive programming.
 - 📫 How to reach me:[Linkedn](https://www.linkedin.com/in/harsh-mishra-15ab1419b/)
 - 😄 Pronouns: He/his
@@ -15,7 +15,7 @@
 
 
 
-<img align="left" alt="https://www.linkedin.com/in/harsh-mishra-15ab1419b/" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />(https://www.linkedin.com/in/harsh-mishra-15ab1419b/)
+<img align="left" alt="https://www.linkedin.com/in/harsh-mishra-15ab1419b/" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />
 
 
 <br />
