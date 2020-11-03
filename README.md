@@ -23,8 +23,6 @@
   
 <a href="https://github.com/mishrajiharsh219"><img align="left" alt="" width="22px" src="https://camo.githubusercontent.com/e8dd57e8a1f1609a27dd99eb4ba9d05f7ad28ba2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" />    
 <br>
-<br>
-
 *Languages and Tools:*
 
 <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -33,5 +31,5 @@
 <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 
-
+<hr>
 
