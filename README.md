@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 👯 I’m looking to collaborate on any interesting project
 - 🤔 I’m looking for help with competitive programming.
-- 📫 How to reach me:[Linkedn](https://www.linkedin.com/in/harsh-mishra-15ab1419b/)
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/harsh-mishra-15ab1419b/)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I am a huge Cinephile ❤🎥
 
