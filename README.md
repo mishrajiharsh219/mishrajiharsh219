@@ -5,10 +5,9 @@
 - 🔭 I’m currently working on [newsify](https://github.com/mishrajiharsh219/newsify)
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 👯 I’m looking to collaborate on any interesting project
-- 🤔 I’m looking for help with competitive programming.
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/harsh-mishra-15ab1419b/)
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I am a huge Cinephile ❤🎥
+- ⚡ Fun fact:  “I say more dumb things before 9 A.M. than most people say all day.”
 
 **Connect with me:**
 
