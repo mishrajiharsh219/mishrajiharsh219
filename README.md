@@ -18,7 +18,7 @@
 
 <a href="https://www.instagram.com/_hars._/"><img align="left" alt="https://www.linkedin.com/in/harsh-mishra-15ab1419b/" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" />
   
-<a href="https://mishrajiharsh219.github.io/portfolio-website"><img align="left" alt="https://mishrajiharsh219.github.io/portfolio-website/" width="22px" src="https://camo.githubusercontent.com/f36dabf48d0c7135b80ed65ed8fefda4319f8c7eb6483ba62e50f3262e3a915b/68747470733a2f2f696d672e69636f6e73382e636f6d2f756c74726176696f6c65742f32322f3030303030302f646f6d61696e2e706e67" />
+<a href="https://mishrajiharsh219.github.io/portfolio-website"><img align="left" alt="https://mishrajiharsh219.github.io/portfolio-website/" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/20/20155.svg?token=exp=1613322898~hmac=b2a04776521d127d522949a8d2a58a90" />
   
   
 <a href="https://github.com/mishrajiharsh219"><img align="left" alt="https://mishrajiharsh219.github.io/portfolio-website/" width="22px" src="https://camo.githubusercontent.com/e8dd57e8a1f1609a27dd99eb4ba9d05f7ad28ba2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" />    
