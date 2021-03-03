@@ -24,6 +24,10 @@
 <a href="https://github.com/mishrajiharsh219"><img align="left" alt="https://mishrajiharsh219.github.io/portfolio-website/" width="22px" src="https://camo.githubusercontent.com/e8dd57e8a1f1609a27dd99eb4ba9d05f7ad28ba2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" />    
   
 <a href="https://codeforces.com/profile/cypherman"><img align="left" alt="" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" />  
+  
+ 
+  <a href="https://www.codechef.com/users/harshchef"><img align="left" alt="" width="22px" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png " /> 
+  
 <br>
   <hr>
 *Languages and Tools:*
