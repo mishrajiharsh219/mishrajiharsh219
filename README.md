@@ -1,5 +1,5 @@
-### Hi there , I am HARSH MISHRA👋
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Harsh</h1>
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
 
 - 🔭 I’m currently working on [SPARTANS](https://mishrajiharsh219.github.io/spartan--a-tech-community/)
