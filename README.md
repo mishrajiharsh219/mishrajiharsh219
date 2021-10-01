@@ -2,8 +2,9 @@
 
 
 
-- 🔭 I’m currently working on [SPARTANS](https://mishrajiharsh219.github.io/spartan--a-tech-community/)
+n 🔭 I’m currently working on [SPARTANS](https://mishrajiharsh219.github.io/spartan--a-tech-community/)
 - 🌱 I’m currently learning Web development.
+- you are alse a "Malik"
 - 👯 I’m looking to collaborate on any interesting project
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/harsh-mishra-15ab1419b/)
 - 😄 Pronouns: He/his
